@@ -13,6 +13,6 @@ public class OperasiString {
         System.out.println(uniskaString);
 
         System.out.println(kota.toUpperCase());
-
+        System.out.println(kota.toLowerCase());
     }
 }
