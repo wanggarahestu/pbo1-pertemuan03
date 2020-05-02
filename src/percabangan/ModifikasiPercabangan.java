@@ -2,8 +2,8 @@ package percabangan;
 
 public class ModifikasiPercabangan {
     public static void main(String[] args) {
-        boolean taatAturan = true;
-        char nama='B';
+        boolean taatAturan = false;
+        char nama='A';
 
 
         switch (nama){
