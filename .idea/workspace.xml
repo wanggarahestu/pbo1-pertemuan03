@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bda4d70-5bc7-425f-b66a-0a2c972ab732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan/IfElse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operator/OperatorEquality.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/percabangan/IfElse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/operator/OperatorBinary.java" />
         <option value="$PROJECT_DIR$/src/operator/OperatorUnary.java" />
         <option value="$PROJECT_DIR$/src/operator/OperatorEquality.java" />
+        <option value="$PROJECT_DIR$/src/percabangan/IfElse.java" />
       </list>
     </option>
   </component>
@@ -95,7 +105,7 @@
               <item name="pbo1-pertemuan03" type="b2602c69:ProjectViewProjectNode" />
               <item name="pbo1-pertemuan03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
+              <item name="percabangan" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,7 +129,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatorEquality">
+  <component name="RunManager" selected="Application.IfElse">
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percabangan.IfElse" />
+      <module name="pbo1-pertemuan03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.OperasiString" />
       <module name="pbo1-pertemuan03" />
@@ -174,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.OperatorEquality" />
         <item itemvalue="Application.OperatorUnary" />
         <item itemvalue="Application.OperatorBinary" />
@@ -265,6 +289,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/percabangan/IfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
         </state>
       </provider>
     </entry>
